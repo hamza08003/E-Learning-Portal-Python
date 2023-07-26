@@ -1,5 +1,5 @@
 # E-Learning-Portal-Python
-🐍 This repository contains the source code for a Terminal-Based E-Learning Portal implemented in Python. The project aims to create a MOOC platform similar to Moodle, featuring User, Student, Lecturer, and Module classes, along with a GradeCalculator utility for student assessments.
+This repository contains the source code for a Terminal-Based E-Learning Portal implemented in Python. The project aims to create a MOOC platform similar to Moodle, featuring User, Student, Lecturer, and Module classes, along with a GradeCalculator utility for student assessments.
 
 # 🏷️ Features:
 ◉ User Class: A class representing users of the e-learning platform, with attributes like email address, password, name, department, and registration date. 👤
@@ -31,7 +31,8 @@ The main program allows users to interact with the E-Learning Portal. It offers 
 
 # ℹ️ How to Use:
 Clone the repository to your local machine. 📥
-Run the main program (e.g., main.py) to access the E-Learning Portal functionalities. 🏃‍♂️
+Run the main program (e.g., main.py) to access the E-Learning Portal functionalities 🏃‍♂️
+
 Follow the on-screen instructions to perform various tasks in the portal. 📝
 
 Feel free to contribute, report issues, or suggest improvements to make this even better! Happy learning! 🤗📚
