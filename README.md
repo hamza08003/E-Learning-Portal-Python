@@ -31,6 +31,7 @@ The main program allows users to interact with the E-Learning Portal. It offers 
 
 # ℹ️ How to Use:
 Clone the repository to your local machine. 📥
+
 Run the main program (e.g., main.py) to access the E-Learning Portal functionalities 🏃‍♂️
 
 Follow the on-screen instructions to perform various tasks in the portal. 📝
