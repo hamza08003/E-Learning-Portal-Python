@@ -1,0 +1,10 @@
+Student_Email,Student_Name,Student_Number,Programme_Code,Programme_year,Student_Type,Grades_List
+Ann.Doyle@myTUD.com,Ann Doyle,123456789,TA_KCOMP_HD,1,PT
+Barry.King@myTUD.com,Barry King,234567891,TA_KCOMP_HD,1,PT
+Lucy.Harry@myTUD.com,Lucy Harry,345678912,TA_KCOMP_HD,2,PT
+Molly.Boyle@myTUD.com,Molly Boyle,456789123,TA_KCOMP_HD,2,PT
+Paul.Finn@myTUD.com,Paul Finn,567891234,TA_KCOMP_HD,3,PT
+Evan.Fox@myTUD.com,Evan Fox,678912345,TA_KCOMP_HD,3,PT
+Harry.Field@myTUD.com,Harry Field,789123456,TA_KCOMP_HD,4,PT
+Kevin.Clarke@myTUD.com,Kevin Clarke,891234567,TA_KCOMP_HD,4,PT
+Terry.Hogan@myTUD.com,Terry Hogan,912345678,TA_KCOMP_HD,5,PT

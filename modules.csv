@@ -1,0 +1,11 @@
+ModuleId,ModuleName,CourseCode,Department,Lecturer_Email,Lecturer_Name,Lecturer_StaffId,Lecturer_Speciality,Lecturer_Qualification
+1001,Research Methods,TA_KCOMP_HD,Computing,Gary.Cly@SWC.com,Gary Cly,110011,DevOps,MSC
+1002,Python 1,TA_KCOMP_HD,Computing,Kaith.Nol@SWC.com,Kaith Nol,110021,SW,PHD
+1003,Python 2,TA_KCOMP_HD,Computing,Karen.Bolan@SWC.com,Karen Bolan,110023,SW,MSC
+1004,Databases,TA_KCOMP_HD,Computing,Rose.Faty@SWC.com,Rose Faty,110004,Databases,MSC
+1005,Networking,TA_KCOMP_HD,Computing,Amanda.Rell@SWC.com,Amanda Rell,110005,Networking,MSC
+1006,Operating Systems,TA_KCOMP_HD,Computing,Paul.McCarthy@SWC.com,Paul McCarthy,110006,OS,BSC
+1007,Systems Analysis,TA_KCOMP_HD,Computing,Barry.Kelly@SWC.com,Barry Kelly,110007,Systems Analysis,BSC
+1008,Web UI,TA_KCOMP_HD,Computing,Paul.Dansy@SWC.com,Paul Dansy,110008,Web,MSC
+1009,AI,TA_KCOMP_HD,Computing,Simon.Drake@SWC.com,Simon Drake,110009,Machine Learning,PHD
+1010,Data Analysis,TA_KCOMP_HD,Computing,Helena.Moore@SWC.com,Helena Moore,101010,DA,PHD
