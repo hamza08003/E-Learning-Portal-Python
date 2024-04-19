@@ -35,5 +35,3 @@ Clone the repository to your local machine. 📥
 Run the main program (e.g., main.py) to access the E-Learning Portal functionalities 🏃‍♂️
 
 Follow the on-screen instructions to perform various tasks in the portal. 📝
-
-Feel free to contribute, report issues, or suggest improvements to make this even better! Happy learning! 🤗📚
